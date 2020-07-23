@@ -1,0 +1,11 @@
+<a:22:717516241459347476> `?8ball` **Ask the bot something** __Usage__: *?8ball [ question ]*
+<a:22:717516241459347476> `?ascii` **Text Model** __Usage__: *?ascii [ Text name ]*
+<a:22:717516241459347476> `?clap` **Makes a text with the :clap:** __Usage__: *?calp [ text ]*
+<a:22:717516241459347476> `?flip` **Flip a text upsidedown** __Usage__: *?flip [ text ]*
+<a:22:717516241459347476> `?cat` **Shows a random cat pic** __Usage__: *?cat*
+<a:22:717516241459347476> `?dog` **Shows a random dog pic** __Usage__: *?dog*
+<a:22:717516241459347476> `?meme` **Shows a random meme pic** __Usage__: *?meme*
+<a:22:717516241459347476> `?cow` **Show a with the letter in reverse** __Usage__: *?cow*
+<a:22:717516241459347476> `?rps` **Rock Paper Scissors game. React to one of the emojis to play the game** __Usage__: *?rps*
+<a:22:717516241459347476> `?love` **Show a with the letter in reverse** __Usage__: *?love*
+<a:22:717516241459347476> `?joke` **This command tells you a joke** __Usage__: *?joke*

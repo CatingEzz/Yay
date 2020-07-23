@@ -1,0 +1,9 @@
+module.exports = {
+    name: "",
+    aliases: [""],
+    category: "onlyDavid",
+    description: "",
+    usage: "",
+    run: async (bot, message, args) => {
+                
+        if(message.author.id !== "710645707735957614") return;

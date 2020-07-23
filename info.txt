@@ -1,0 +1,8 @@
+<a:22:717516241459347476> `?ping` **Check the bot ping** __Usage__: *?ping*
+<a:22:717516241459347476> `?invite` **Gives you invite for the bot** __Usage__: *?invite*
+<a:22:717516241459347476> `?avatar` **Gives you someone's avatar** __Usage__: *?avatar [ @user ]*
+<a:22:717516241459347476> `?icon` **Gives you the server icon** __Usage__: *?icon*
+<a:22:717516241459347476> `?botinfo` **Gives the bot info** __Usage__: *?botinfo*
+<a:22:717516241459347476> `?userinfo` **Gives you the user info** __Usage__: *?userinfo [ @user ]*
+<a:22:717516241459347476> `?profile`  **Finds users with this name** __Usage__: *?profile [ @user ]*
+<a:22:717516241459347476> `?donate`  **If you wanted to donate for a Cating Bot** __Usage__: *?donate*

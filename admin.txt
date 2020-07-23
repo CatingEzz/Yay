@@ -1,0 +1,6 @@
+<a:22:717516241459347476> `?kick` **Kicks a user from the server** __Usage__: *?kick [ @user ] [ reason ]*
+<a:22:717516241459347476> `?ban` **Bans a user from the server** __Usage__: *?ban [ @user ] [ reason ]*
+<a:22:717516241459347476> `?purge` **Clears the chat** __Usage__: *?purge [ amount ]*
+<a:22:717516241459347476> `?warn` **Warn thr ** __Usage__: *?purge [ amount ]*
+<a:22:717516241459347476> `?say` **Says your input via the bot** __Usage__: *?say [ message ]*
+<a:22:717516241459347476> `?say embed` **Says with embed your** __Usage__: *?say embed [ message ]*
