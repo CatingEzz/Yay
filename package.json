@@ -1,20 +1,36 @@
 {
-  "name": "Yay",
+  "name": "Netix",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "common-tags": "^1.8.0",
+    "cows": "^2.1.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.6.4",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "fortnite": "^4.3.2",
+    "fetch-polyfill": "^0.8.2",
+    "fs": "^0.0.1-security",
+    "giphy-api": "^2.0.1",
+    "give-me-a-joke": "^0.3.2",
+    "parse-ms": "^2.1.0",
+    "moment": "^2.27.0",
+    "random-puppy": "^1.1.0",
+    "random-number": "^0.0.9",
+    "quick.db": "^7.1.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CatingEzz/Yay.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CatingEzz/Yay/issues"
-  },
-  "homepage": "https://github.com/CatingEzz/Yay#readme"
+  "license": "ISC"
 }
